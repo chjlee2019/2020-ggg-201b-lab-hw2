@@ -1,1 +1,6 @@
-# 2020-ggg-201b-lab-hw2
+# 2020 GGG 201(b): a simple assembly workflow.
+
+This is for GGG 201(b) at UC Davis.
+
+See [Snakefile](./Snakefile) for workflow.
+
